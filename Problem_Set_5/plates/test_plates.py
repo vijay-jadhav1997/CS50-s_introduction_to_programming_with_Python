@@ -1,4 +1,4 @@
-from plates import is_valid
+from Problem_Set_5.plates.plates import is_valid
 
 def main():
   test_start_with_2letter()

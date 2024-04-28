@@ -1,6 +1,6 @@
 import pytest
-from fuel import convert
-from fuel import gauge
+from Problem_Set_5.fuel.fuel import convert
+from Problem_Set_5.fuel.fuel import gauge
 
 def main():
   test_convert()

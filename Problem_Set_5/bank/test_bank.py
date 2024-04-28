@@ -1,4 +1,4 @@
-from bank import value
+from Problem_Set_5.bank.bank import value
 
 def main():
   test_hello()

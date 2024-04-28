@@ -1,4 +1,4 @@
-from twttr import shorten
+from Problem_Set_5.twttr.twttr import shorten
 
 def main():
   test_twttr()
