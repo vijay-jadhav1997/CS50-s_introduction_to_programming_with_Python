@@ -16,4 +16,5 @@ def percent_to_float(p):
   return float(p)/100
 
 # call main fn
-main()
+if __init__ == "__main__":
+  main()
